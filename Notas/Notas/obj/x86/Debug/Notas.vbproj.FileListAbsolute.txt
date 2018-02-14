@@ -1,0 +1,11 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\bin\Debug\Notas.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\bin\Debug\Notas.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\bin\Debug\Notas.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\obj\x86\Debug\Notas.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\obj\x86\Debug\Notas.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\obj\x86\Debug\Notas.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\obj\x86\Debug\Notas.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Notas\obj\x86\Debug\Notas.pdb
+C:\Users\Gabriel\Desktop\Notas\Notas\obj\x86\Debug\Notas.exe
+C:\Users\Gabriel\Desktop\Notas\Notas\obj\x86\Debug\Notas.xml
+C:\Users\Gabriel\Desktop\Notas\Notas\obj\x86\Debug\Notas.pdb

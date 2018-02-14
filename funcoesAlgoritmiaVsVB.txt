@@ -1,0 +1,63 @@
+Nome da Instrunção		Algoritmo	  	V.B.                                   	
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Leitura				read()		 	console.read()			       		/*Armmazena o valor lido segundo o código ASCII*/
+						 					       		/*Usado para parar o modo consola para
+						 					       		que a janela não feche*/
+						 	console.readline()		       		/*Ler o texto tal como ele é lido*/
+						                                               
+Escrita				Print()		 	console.write("Sou uma String" & )		/*Escreve e mantem na mesma linha*/
+						 	console.writeline()				/*Escreve e muda de linha*/
+				                 
+Declaração de uma       	/*Não é*/	 	Dim A,B,c As Integer 				/*Declaração das variaveis A B e C com inteiros*/
+Variavel			/*feito*	 	Dim D,E As Single 				/*Declaração das variaveis D e E com decimais*/
+						 	Dim F,G As String				/*Declaração das variaveis F e G com string*/
+                                                
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------Tratamento de texto---------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Algoritmia                                                                               VB
+
+sub(A,P,[N]) /*Devolve os carateres da string A a N carateres partir do carater P. Se N não for defenido será devolvido                                  
+todos os carateres apartir da posição P*/
+
+A <- 'Ola Mundo'
+B <- sub(A,5)      /*O valor de B é Mundo*/
+7C <- sub(A,1,3)   /*O valor de C é Ola*/
+
+length(a)          /*Retorna o numero de carateres que uma string tem*/
+
+A <- 'Ola Mundo'
+B <- length(A)     /*O valor de B é 9*/
+
+
+
+VisualBasic
+
+mid(A,P,[N]) /*Devolve os carateres da string A a N carateres partir do carater P. Se N não for defenido será devolvido                                  
+todos os carateres apartir da posição P*/
+
+len()    /*Retorna o numero de carateres que uma string tem*/
+
+instr(A) /*procura a primeira ocurencia de um carater, devolve a posição*/
+
+lcase(A) /*Coloca todos os carateres em minisculas*/
+
+ucase(A) /*Coloca todos os carateres em maiusculas*/
+
+ltrim(A) /*Retira todos os espaços à esquerda da variavel antes de começar o texto*/                 ltrim("               Hello World") ===> Hello World
+
+rtrim(A) /*Retira todos os espaços à direita da variavel depois de terminar o texto*/                rtrim("Hello World               ") ===> Hello World
+
+trim(A)  /*Retira todos os espaços antes e depois do texto*/					     trim("        Hello World        ") ===> Hello World
+
+asc("A") /*Valor do carater na tabela ASCII*/							     asc("B") ==============================> 66
+					    							     asc("Boa Viagem") =====================> 66 /*Atribui 
+																		 *o valor 
+																		 *do 1º Carater*/
+chr(A)     /*Retorna o carater correspondente ao numero introduzido na tabela ASCII*/                asc("66") ==============================> B
+
+left(A,b)  /*Retira os primeiros b carateres da string A*/
+right(A,b) /*Retira os ultimos b carateres da string A*/
+
+

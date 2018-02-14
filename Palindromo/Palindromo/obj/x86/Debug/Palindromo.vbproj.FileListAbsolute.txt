@@ -1,0 +1,8 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\bin\Debug\Palindromo.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\bin\Debug\Palindromo.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\bin\Debug\Palindromo.xml
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\obj\x86\Debug\Palindromo.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\obj\x86\Debug\Palindromo.vbproj.GenerateResource.Cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\obj\x86\Debug\Palindromo.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\obj\x86\Debug\Palindromo.xml
+C:\Users\Jorge\AppData\Local\Temporary Projects\Palindromo\obj\x86\Debug\Palindromo.pdb

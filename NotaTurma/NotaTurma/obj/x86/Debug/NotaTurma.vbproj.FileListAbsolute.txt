@@ -1,0 +1,16 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\NotaTurma.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\bin\Debug\NotaTurma.exe
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\bin\Debug\NotaTurma.pdb
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\bin\Debug\NotaTurma.xml
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\obj\x86\Debug\NotaTurma.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\obj\x86\Debug\NotaTurma.exe
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\obj\x86\Debug\NotaTurma.xml
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\NotaTurma\NotaTurma\obj\x86\Debug\NotaTurma.pdb

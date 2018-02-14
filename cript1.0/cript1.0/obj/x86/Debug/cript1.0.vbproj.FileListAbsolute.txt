@@ -1,0 +1,8 @@
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\bin\Debug\cript1.0.exe
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\bin\Debug\cript1.0.pdb
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\bin\Debug\cript1.0.xml
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\obj\x86\Debug\cript.Resources.resources
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\obj\x86\Debug\cript1.0.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\obj\x86\Debug\cript1.0.exe
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\obj\x86\Debug\cript1.0.xml
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\cript1.0\cript1.0\obj\x86\Debug\cript1.0.pdb

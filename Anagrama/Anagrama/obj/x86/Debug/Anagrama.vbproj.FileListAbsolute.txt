@@ -1,0 +1,8 @@
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\bin\Debug\Anagrama.exe
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\bin\Debug\Anagrama.pdb
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\bin\Debug\Anagrama.xml
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\obj\x86\Debug\Anagrama.vbproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\obj\x86\Debug\Anagrama.exe
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\obj\x86\Debug\Anagrama.xml
+C:\Users\Jorge\Documents\MEGA\Escola\12 Ano\Ap Informaticas\Anagrama\Anagrama\obj\x86\Debug\Anagrama.pdb

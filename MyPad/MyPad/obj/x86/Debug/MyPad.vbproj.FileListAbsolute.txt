@@ -1,0 +1,64 @@
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\bin\Debug\MyPad.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\bin\Debug\MyPad.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\bin\Debug\MyPad.xml
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\obj\x86\Debug\MyPad.Resources.resources
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\obj\x86\Debug\MyPad.vbproj.GenerateResource.Cache
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\obj\x86\Debug\MyPad.exe
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\obj\x86\Debug\MyPad.xml
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\obj\x86\Debug\MyPad.pdb
+C:\Users\Jorge\AppData\Local\Temporary Projects\MyPad\obj\x86\Debug\MyPad.MyPadTextEditor.resources
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.exe
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.xml
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.pdb
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.exe
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.xml
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.pdb
+F:\MyPad\MyPad\bin\Debug\MyPad.exe
+F:\MyPad\MyPad\bin\Debug\MyPad.pdb
+F:\MyPad\MyPad\bin\Debug\MyPad.xml
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPadTextEditor.resources
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.Resources.resources
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Crypt.resources
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.vbproj.GenerateResource.Cache
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.exe
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.xml
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.pdb
+E:\MyPad\MyPad\bin\Debug\MyPad.exe
+E:\MyPad\MyPad\bin\Debug\MyPad.pdb
+E:\MyPad\MyPad\bin\Debug\MyPad.xml
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPadTextEditor.resources
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.Resources.resources
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Crypt.resources
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.vbproj.GenerateResource.Cache
+E:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPadSobre.resources
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.exe
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.xml
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.pdb
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPadTextEditor.resources
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Crypt.resources
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Sobre.resources
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.vbproj.GenerateResource.Cache
+H:\MyPad\MyPad\bin\Debug\MyPad.exe
+H:\MyPad\MyPad\bin\Debug\MyPad.pdb
+H:\MyPad\MyPad\bin\Debug\MyPad.xml
+H:\MyPad\MyPad\obj\x86\Debug\MyPad.Resources.resources
+F:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Sobre.resources
+G:\MyPad\MyPad\bin\Debug\MyPad.exe
+G:\MyPad\MyPad\bin\Debug\MyPad.pdb
+G:\MyPad\MyPad\bin\Debug\MyPad.xml
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPadTextEditor.resources
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.Resources.resources
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Crypt.resources
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Sobre.resources
+G:\MyPad\MyPad\obj\x86\Debug\MyPad.vbproj.GenerateResource.Cache
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.exe
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.xml
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.pdb
+D:\MyPad\MyPad\bin\Debug\MyPad.exe
+D:\MyPad\MyPad\bin\Debug\MyPad.pdb
+D:\MyPad\MyPad\bin\Debug\MyPad.xml
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPadTextEditor.resources
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.Resources.resources
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Crypt.resources
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.MyPad_Sobre.resources
+D:\MyPad\MyPad\obj\x86\Debug\MyPad.vbproj.GenerateResource.Cache

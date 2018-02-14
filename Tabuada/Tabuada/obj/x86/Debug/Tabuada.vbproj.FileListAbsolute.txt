@@ -1,0 +1,16 @@
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\obj\x86\Debug\Tabuada.Resources.resources
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\obj\x86\Debug\Tabuada.vbproj.GenerateResource.Cache
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\bin\Debug\Tabuada.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\obj\x86\Debug\Tabuada.exe
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\obj\x86\Debug\Tabuada.xml
+C:\Users\Gabriel\AppData\Local\Temporary Projects\Tabuada\obj\x86\Debug\Tabuada.pdb
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\obj\x86\Debug\Tabuada.exe
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\obj\x86\Debug\Tabuada.xml
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\obj\x86\Debug\Tabuada.pdb
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\bin\Debug\Tabuada.xml
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\obj\x86\Debug\Tabuada.Resources.resources
+C:\Users\Gabriel\Mega\Escola\12 Ano\Ap Informaticas\Tabuada\Tabuada\obj\x86\Debug\Tabuada.vbproj.GenerateResource.Cache
